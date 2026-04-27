@@ -5,6 +5,8 @@ n8n agentic workflows
 <br>
 <img width="1362" height="594" alt="Screenshot 2026-04-01 012858" src="https://github.com/user-attachments/assets/ec3e412a-1c98-4a98-b6b7-75427fb3a087" />
 <img  height="500" alt="WhatsApp Image 2026-04-09 at 4 36 53 PM" src="https://github.com/user-attachments/assets/3e5368d3-c465-4993-afec-c75cbddf566f" />
+<img  height="500" alt="WhatsApp Image 2026-04-09 at 4 36 53 PM (1)" src="https://github.com/user-attachments/assets/bf254824-dc36-43ae-b15d-b5102acefd94" />
+
 <br>
 <br>
 <hr>
