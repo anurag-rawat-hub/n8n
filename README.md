@@ -1,4 +1,4 @@
-<h1>⭐n8n </h1>
+<h1>n8n </h1>
 n8n agentic workflows
 
 <h1>⭐Workflow that summarizes all the latest news on AI and sends it to your email</h1>
@@ -11,7 +11,7 @@ n8n agentic workflows
 <br>
 <hr>
 
-<h1>⭐Workflow that sneds email on your behalf just by writing a sinle prompt email</h1>
+<h1>⭐Workflow that sneds email on your behalf just by writing a single prompt </h1>
 <img width="1919" height="868" alt="Screenshot 2026-04-27 171520" src="https://github.com/user-attachments/assets/17bc7863-bfef-4216-846c-ed058703fe02" />
 <img  height="500" alt="WhatsApp Image 2026-04-27 at 5 21 26 PM" src="https://github.com/user-attachments/assets/a0d87c88-5b5d-455d-b72e-c2a8878b3192" />
 
